@@ -1,0 +1,1 @@
+This script reads the trap tag number and picture link off an excel file. All pictures are downloaded and saved locally as the trap tag number for the file name.
